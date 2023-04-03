@@ -201,7 +201,7 @@ form {
     background: #ededed;
     border: 1px solid black;
     border-radius: 2px;
-    margin-bottom: 8px;
+
 }
 
 .main__form_btn {
@@ -217,6 +217,15 @@ form {
     cursor: pointer;
 }
 
+.form__message {
+    color: #e04562;
+    background-color: #f9e4e8;
+    display: block;
+    padding: 10px;
+    border-radius: 2px;
+    margin-top: 4px;
+    margin-bottom: 8px;
+}
 
 
 
